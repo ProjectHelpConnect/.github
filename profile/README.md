@@ -1,6 +1,6 @@
 ## Project HelpConnect
 
-HelpConnect will not be the final name of this project and is a code name for now.
+*HelpConnect will not be the final name of this project and is a code name for now.*
 
 Hello, we are HelpConnect. We create solutions that help to build and develop local communities. Our goal is to create trust and reliability. 
 
