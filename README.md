@@ -1,3 +1,0 @@
-# HelpConnect
-
-Work in progress
